@@ -1,0 +1,49 @@
+# ── Dados coletados (não versionar dados brutos) ──────────────────────────────
+data/raw/
+data/processed/
+
+# ── Ambientes virtuais ─────────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ── Python ─────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Jupyter Notebook ───────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Variáveis de ambiente e segredos ──────────────────────────────────────────
+.env
+.env.local
+*.env
+secrets.py
+
+# ── Power BI (arquivo grande, versionar só o .pbix final) ─────────────────────
+dashboard/*.pbix.bak
+
+# ── Sistema operacional ────────────────────────────────────────────────────────
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# ── IDEs ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Logs e temporários ─────────────────────────────────────────────────────────
+*.log
+*.tmp
+*.temp
