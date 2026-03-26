@@ -1,6 +1,6 @@
-# Radar Mercado Tech BR
+# Radar Mercado Tech
 
-Projeto de web scraping para portfólio — coleta, trata e analisa vagas de emprego na área de tecnologia.
+Projeto de web scraping para aprendizado — coleta, trata e analisa vagas de emprego na área de tecnologia.
 
 ## Stack
 `Python` • `requests` • `BeautifulSoup` • `pandas` • `numpy` • `Power BI`
