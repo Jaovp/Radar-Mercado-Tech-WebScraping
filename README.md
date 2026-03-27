@@ -9,7 +9,7 @@ Projeto de web scraping para aprendizado — coleta, trata e analisa vagas de em
 | Etapa | Descrição | Status |
 |-------|-----------|--------|
 | 1 | Coleta de dados (API + Scraping) | ✅ |
-| 2 | ETL e limpeza | 🔜 |
+| 2 | ETL e limpeza | ✅ |
 | 3 | EDA | 🔜 |
 | 4 | Dashboard Power BI | 🔜 |
 

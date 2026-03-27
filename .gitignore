@@ -1,6 +1,8 @@
 # ── Dados coletados (não versionar dados brutos) ──────────────────────────────
-data/raw/
-data/processed/
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
 
 # ── Ambientes virtuais ─────────────────────────────────────────────────────────
 venv/
